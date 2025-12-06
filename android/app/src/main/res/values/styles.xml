@@ -1,0 +1,7 @@
+<resources>
+    <style name="LaunchTheme" parent="@android:style/Theme.Black.NoTitleBar">
+    </style>
+
+    <style name="NormalTheme" parent="@android:style/Theme.Black.NoTitleBar">
+    </style>
+</resources>
